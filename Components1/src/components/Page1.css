@@ -1,0 +1,21 @@
+.header {
+  background-color: #29cdff;
+  text-align: center;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  color: white;
+}
+.header h1 {
+  font-size: 35px;
+  padding-left: 20px;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+  font-size: 16px;
+}

@@ -1,0 +1,33 @@
+.footer{
+    background-color: #e7e7e7;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.footer-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.fa{
+    font-size: 15px;
+    color: rgb(126, 126, 126);
+    border-radius: 50%;
+    border: 1px solid rgba(126, 126, 126, 0.449);
+    padding: 7px;
+}
+
+
+.footer-links a{
+    color: rgb(126, 126, 126);
+    text-decoration: none;
+    margin: 0 10px;
+}
