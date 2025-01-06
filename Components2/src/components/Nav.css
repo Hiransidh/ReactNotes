@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000000;
+    height: 7vh;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav_links a{
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-size: 1rem;
+}
+.nav_links a:hover{
+    color: #ff7818;
+}
